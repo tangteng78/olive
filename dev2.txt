@@ -1,1 +1,2 @@
-
+ini ialah barisan 1
+ini ialah barisan 2
